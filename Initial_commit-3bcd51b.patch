@@ -1,0 +1,69 @@
+From 3bcd51b1b624ab24e334c205b45d944b1422ac2a Mon Sep 17 00:00:00 2001
+From: rsumner31 <32827592+rsumner31@users.noreply.github.com>
+Date: Thu, 11 Jan 2018 04:29:46 -0600
+Subject: [PATCH] Initial commit
+
+---
+ .gitignore |  8 ++++++++
+ LICENSE    | 24 ++++++++++++++++++++++++
+ README.md  |  2 ++
+ 3 files changed, 34 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 LICENSE
+ create mode 100644 README.md
+
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000..361cf52
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,8 @@
++# Dependencies
++.psci_modules
++bower_components
++node_modules
++
++# Generated files
++.psci
++output
+diff --git a/LICENSE b/LICENSE
+new file mode 100644
+index 0000000..cf1ab25
+--- /dev/null
++++ b/LICENSE
+@@ -0,0 +1,24 @@
++This is free and unencumbered software released into the public domain.
++
++Anyone is free to copy, modify, publish, use, compile, sell, or
++distribute this software, either in source code form or as a compiled
++binary, for any purpose, commercial or non-commercial, and by any
++means.
++
++In jurisdictions that recognize copyright laws, the author or authors
++of this software dedicate any and all copyright interest in the
++software to the public domain. We make this dedication for the benefit
++of the public at large and to the detriment of our heirs and
++successors. We intend this dedication to be an overt act of
++relinquishment in perpetuity of all present and future rights to this
++software under copyright law.
++
++THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
++EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
++MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
++IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
++OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
++ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
++OTHER DEALINGS IN THE SOFTWARE.
++
++For more information, please refer to <http://unlicense.org>
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..83dd909
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,2 @@
++# Forgot-this
++Apple dehack
+--
+Working Copy 3.2.8
+
