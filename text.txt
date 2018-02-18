@@ -1,0 +1,8 @@
+resolve merge conflicts of 1f433cb to mnc-dr-dev am: f15ca6d21d  -s ours am: 8e80a26078
+am: edb7ce120e
+
+Change-Id: Ie7ea41474e11479b54ba526294977dfaa60c8cd7
+
+
+platform_system_bt c4bc5d2
+
