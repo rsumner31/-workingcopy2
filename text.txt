@@ -1,8 +1,11 @@
-resolve merge conflicts of 1f433cb to mnc-dr-dev am: f15ca6d21d  -s ours am: 8e80a26078
-am: edb7ce120e
+Merge "Add guest mode functionality (2/3)" into mnc-dev am: 4439d380e5 am: 99bbe2fffe  -s ours am: 34619f8e30
+am: 84970d1300
 
-Change-Id: Ie7ea41474e11479b54ba526294977dfaa60c8cd7
+* commit '84970d13000623b266a72433474c4c2ae6abd3c6':
+  Add guest mode functionality (2/3)
+
+Change-Id: I8e26f8bb0fa6898427507dfc888dfb6fd743fcac
 
 
-platform_system_bt c4bc5d2
+platform_system_bt 9a26927
 
